@@ -1,0 +1,9 @@
+Project Name: whatsapp bot for saloon appointment booking
+It was a simple whatsapp bot connected to our server programed in python 
+user flow:
+user can open our bot in his whatsapp
+our bot need to check his location and search for nearest saloons in our database and display them for his selection 
+next he need to select one saloon and get saloon services list for selection 
+after selecting service he need to select date and time for appointment
+his appointment need to be updated in database
+
